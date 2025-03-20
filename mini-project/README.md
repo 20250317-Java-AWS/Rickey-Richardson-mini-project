@@ -1,5 +1,9 @@
 # MiniProject
 
+# Overview
+Attempting to make a baseball app that calls to an API to create a psuedo-allstar team made up of 
+5 - 10 players from different leagues and divisions. 
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.3.
 
 ## Development server
