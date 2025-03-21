@@ -2,7 +2,7 @@ import { Routes } from '@angular/router';
 import { DivisionsComponent } from './divisions/divisions.component';
 import { LeaguesComponent } from './leagues/leagues.component';
 import { TeamsComponent } from './teams/teams.component';
-import { HeaderComponent } from './header/header.component';
+import { HeaderComponent } from './home/home.component';
 
 export const routes: Routes = [
     {path: "divisions", component: DivisionsComponent},
